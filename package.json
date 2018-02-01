@@ -1,0 +1,19 @@
+{
+  "name": "dat-banana-bot-js",
+  "version": "1.0.0",
+  "description": "Just my JS bot. Yay!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bananaboy21/dat-banana-bot-js.git"
+  },
+  "author": "dat banana boi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bananaboy21/dat-banana-bot-js/issues"
+  },
+  "homepage": "https://github.com/bananaboy21/dat-banana-bot-js#readme"
+}
