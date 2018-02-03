@@ -2,7 +2,7 @@ const Discord = require("discord.js");
 const config = require("./config.json");
 const client = new Discord.Client();
 
-client.on("ready" => {
+client.on("ready" () => {
  console.log(`Logged in as ${client.user.name}`);
 });
 
